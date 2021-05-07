@@ -1,2 +1,2 @@
-# Simple-Card-Example
+# Simple-card
 Created with CodeSandbox
